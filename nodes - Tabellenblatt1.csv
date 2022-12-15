@@ -1,8 +1,8 @@
 id,name,party
-500,Folge 500,NA
-501,Folge 501,NA
-502,Folge 502,NA
-503,Folge 503,NA
+500,Folge 500,N/A
+501,Folge 501,N/A
+502,Folge 502,N/A
+503,Folge 503,N/A
 CDU,Christlich Demokratische Union,CDU
 SPD,Sozialdemokratische Partei Deutschland,SPD
 FDP,Freie Demokratische Partei,FDP
@@ -12,18 +12,18 @@ uvl,Ursula von der Leyen,CDU
 lk,Lars Klingenbeil,SPD
 nr,Norbert Röttgen,CDU
 sw,Sahra Wagenknecht,Linke
-cs,Constanze Stelzenmüller,NA
+cs,Constanze Stelzenmüller,N/A
 cl,Christian Lindner,FDP
-ks,Karl Schlögel,NA
-lm,Ljudmyla Melnyk,NA
-kd,Kristina Dunz,NA
-el,Egils Levits,NA
+ks,Karl Schlögel,N/A
+lm,Ljudmyla Melnyk,N/A
+kd,Kristina Dunz,N/A
+el,Egils Levits,N/A
 ab,Annalena Baerbock,Grüne
-ft,Frans Timmermans,NA
-am,Andrij Melnyk,NA
+ft,Frans Timmermans,N/A
+am,Andrij Melnyk,N/A
 agl,Alexander Graf Lambsdorff,FDP
-er,Egon Ramms,NA
+er,Egon Ramms,N/A
 rh,Robert Habeck,Grüne
-cm,Claudia Major,NA
-kp,Katja Petrowskaja,NA
+cm,Claudia Major,N/A
+kp,Katja Petrowskaja,N/A
 rk,Roderich Kiesewetter,CDU
