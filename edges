@@ -1,0 +1,33 @@
+from,to,relationship,type
+Ursula von der Leyen,500,1,1
+Ursula von der Leyen,CDU,2,2
+Lars Klingenbeil,500,1,1
+Lars Klingenbeil,SPD,2,2
+Norbert Röttgen,500,1,1
+Norbert Röttgen,CDU,2,2
+Sahra Wagenknecht,500,1,1
+Sahra Wagenknecht,Linke,2,2
+Constanze Stelzenmüller,500,1,1
+Christian Lindner,501,1,1
+Christian Lindner,FDP,2,2
+Norbert Röttgen,501,1,1
+Norbert Röttgen,CDU,2,2
+Karl Schlögel,501,1,1
+Ljudmyla Melnyk,501,1,1
+Kristina Dunz,501,1,1
+Egils Levits,501,1,1
+Annalena Baerbock,502,1,1
+Annalena Baerbock,Grüne,2,2
+Frans Timmermans,502,1,1
+Andrij Melnyk,502,1,1
+Alexander Graf Lambsdorff,502,1,1
+Alexander Graf Lambsdorff,FDP,2,2
+Egon Ramms,502,1,1
+Robert Habeck,503,1,1
+Robert Habeck,Grüne,2,2
+Lars Klingenbeil,503,1,1
+Lars Klingenbeil,SPD,2,2
+Claudia Major,503,1,1
+Katja Petrowskaja,503,1,1
+Roderich Kiesewetter,503,1,1
+Roderich Kiesewetter,CDU,2,2
