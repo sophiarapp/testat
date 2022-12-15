@@ -1,0 +1,13 @@
+Wert,Kommentar
+edgelist,
+from,"definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort"
+to ,"definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. "
+relationship,"definiert die Art der Beziehung bei multiplexen Netzwerken mit verschiedenen Beziehungsarten, 1= Beziehung zu Folge, 2= Beziehung zu Partei"
+,
+,
+nodelist,
+id,"eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  "
+name,Name oder Bezeichnung des Knotens. 
+party,"Partei, der der Gast angehört"
+type,1= Gast 2= Partei
+NA,"definiert fehlende Werte, bei der Datenerhebung das Feld einfach leer lassen, R rechnet NAs (missing values) automatisch raus.."
