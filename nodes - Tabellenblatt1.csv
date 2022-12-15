@@ -1,29 +1,29 @@
-id,name,party
+id,name,party,type
 500,Folge 500
 501,Folge 501
 502,Folge 502
 503,Folge 503
-CDU,Christlich Demokratische Union,CDU
-SPD,Sozialdemokratische Partei Deutschland,SPD
-FDP,Freie Demokratische Partei,FDP
-Linke,Die Linke,Linke
-Grüne,Bündnis 90/Die Grünen,Grüne
-uvl,Ursula von der Leyen,CDU
-lk,Lars Klingenbeil,SPD
-nr,Norbert Röttgen,CDU
-sw,Sahra Wagenknecht,Linke
-cs,Constanze Stelzenmüller
-cl,Christian Lindner,FDP
-ks,Karl Schlögel
-lm,Ljudmyla Melnyk
-kd,Kristina Dunz
-el,Egils Levits
-ab,Annalena Baerbock,Grüne
-ft,Frans Timmermans
-am,Andrij Melnyk
-agl,Alexander Graf Lambsdorff,FDP
-er,Egon Ramms
-rh,Robert Habeck,Grüne
-cm,Claudia Major
-kp,Katja Petrowskaja
-rk,Roderich Kiesewetter,CDU
+CDU,Christlich Demokratische Union,CDU,2
+SPD,Sozialdemokratische Partei Deutschland,SPD,2
+FDP,Freie Demokratische Partei,FDP,2
+Linke,Die Linke,Linke,2
+Grüne,Bündnis 90/Die Grünen,Grüne,2
+uvl,Ursula von der Leyen,CDU,1
+lk,Lars Klingenbeil,SPD,1
+nr,Norbert Röttgen,CDU,1
+sw,Sahra Wagenknecht,Linke,1
+cs,Constanze Stelzenmüller,1
+cl,Christian Lindner,FDP,1
+ks,Karl Schlögel,1
+lm,Ljudmyla Melnyk,1
+kd,Kristina Dunz,1
+el,Egils Levits,1
+ab,Annalena Baerbock,Grüne,1
+ft,Frans Timmermans,1
+am,Andrij Melnyk,1
+agl,Alexander Graf Lambsdorff,FDP,1
+er,Egon Ramms,1
+rh,Robert Habeck,Grüne,1
+cm,Claudia Major,1
+kp,Katja Petrowskaja,1
+rk,Roderich Kiesewetter,CDU,1
